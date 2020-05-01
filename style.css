@@ -77,17 +77,24 @@ a {
   }
 
   .navbar_menu {
+    display: none;
     flex-direction: column;
     text-align: center;
     width: 100%;
   }
 
   .navbar_icons {
+    display: none;
     justify-content: center;
     width: 100%;
   }
 
   .navbar_toggleBtn {
     display: block;
+  }
+
+  .navbar_menu.active,
+  .navbar_icons.active {
+    display: flex;
   }
 }
