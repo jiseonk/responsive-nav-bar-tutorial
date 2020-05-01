@@ -1,7 +1,7 @@
 # Responsive Nav Bar
 Responsive Navigation Bar with HTML CSS JavaScript
 
-Followed open tutorial from Youtube [DreamCoding](https://www.youtube.com/watch?v=X91jsJyZofw, "youtube link")
+Follow tutorial from Youtube [DreamCoding by Ellie](https://www.youtube.com/watch?v=X91jsJyZofw, "youtube link")
 
 ## Wide Screen
 
