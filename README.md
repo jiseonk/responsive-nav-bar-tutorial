@@ -9,5 +9,4 @@ Followed open tutorial from Youtube [DreamCoding](https://www.youtube.com/watch?
 
 ## Small Screen
 
-![nav03](./img/nav03.png)
 ![nav01](./img/nav01.PNG)
